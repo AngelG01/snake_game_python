@@ -1,4 +1,5 @@
-#Snake Game in Python:
+#Snake-Game:
+
 This is a simple snake game implemented in Python using the Turtle library. The Turtle library is a built-in library in Python that provides graphics drawing 
 functionalities. The objective of the game is to guide the snake to eat the food while avoiding hitting the walls or its own body. Each time the snake eats the food, 
 its body will grow and the game will become more challenging. The game ends when the snake crashes into the walls or its own body.
